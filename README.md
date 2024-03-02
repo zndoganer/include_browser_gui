@@ -9,5 +9,5 @@ Here it is.
 
 It is just an experiment :)
 
-## Refs
+## References
 icon link : https://icon-icons.com/icon/andromeda-chain/38477
